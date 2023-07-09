@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('template spec', () => {
+describe('Login page', () => {
     const email = 'pespatron@gmail.com';
     const password = 'harnaUkrainkaJa';
     const wrongEmail = 'patron@gmail.com';
